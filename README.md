@@ -1,9 +1,8 @@
-# Fabric Example Mod
+# Iron Backpacks 1.18
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+A mod that adds a form of portable storage
+Idea from Iron Backpacks 1.12 by gr8pefish
+Original Author:
+https://github.com/gr8pefish
+Original Mod:
+https://www.curseforge.com/minecraft/mc-mods/iron-backpacks
